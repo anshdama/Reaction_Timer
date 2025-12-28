@@ -1,4 +1,5 @@
-Reaction_Timer
+Reaction_Timer: 
+
 This project implements a hardware-based Reaction Timer using Verilog and the High-Level State Machine (HLSM) design methodology. 
 The system measures the elapsed time between an LED signal and a user’s response, simulating a reaction test. It includes cheat 
 detection, slow-response detection, and an LCD interface for displaying results.
