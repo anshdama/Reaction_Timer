@@ -12,7 +12,6 @@ Features
   - Slow response detection
 - Structured HLSM approach for clean and maintainable design
 - Proper documentation and coding standards for team collaboration
-- Enabled project completion 2 weeks ahead of schedule
 
 Modules
 - ReactionTimer.v — Main reaction timer module  
